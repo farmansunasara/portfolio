@@ -1,5 +1,8 @@
 🌐 Farman Sunasara's Portfolio
-Welcome to my personal portfolio! You can explore my projects, skills, and experience by visiting farmansunasara.github.io/portfolio/.
+
+
+Welcome to my personal portfolio! You can explore my projects, skills, and experience by visiting https://farmansunasara.github.io/portfolio/
+
 
 🔍 About the Portfolio
 This portfolio showcases my journey as a software developer, featuring my projects, skills, and certifications. Whether you're a potential employer, collaborator, or just curious about my work, you'll find a detailed overview of my professional background and the technologies I'm passionate about.
